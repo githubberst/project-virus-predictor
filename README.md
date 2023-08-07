@@ -1,5 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4 - Tackling the West Nile Virus outbreak with data
 
+streamlit demo at https://virus-predictor-mozzie.streamlit.app/ 
+
 ### Problem Statement
 
 As a newly appointed member of the Disease And Treatment Agency's division of Societal Cures In Epidemiology and New Creative Engineering (DATA-SCIENCE), our task is to develop an efficient plan for the deployment of pesticides in response to the endemicity of West Nile Virus in the city. With the establishment of a surveillance and control system by the Department of Public Health, there is an opportunity to leverage collected data on mosquito populations to derive valuable insights. 
